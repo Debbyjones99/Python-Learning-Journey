@@ -1,3 +1,9 @@
+# 1.Business question
+
+# An order can only be approved when:
+# 1. The product is available.
+# 2. The customer has paid or has approved credit.
+# 3. The order value is at least ₦50,000.
 
 ```python
 product_available = True
